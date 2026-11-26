@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid38807",
+  "B": "/home/dev/feedback/uid38807",
+  "sha": "9cd801cff6f763a96e017ef1f347ea2b8252f963",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "netbirdio",
+    "repo": "netbird",
+    "sha": "9cd801cff6f763a96e017ef1f347ea2b8252f963"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "netbird",
+    "cloneUrl": "https://github.com/Rrr119/netbird.git"
+  },
+  "at": "2026-11-26T01:43:34.614Z"
+}
